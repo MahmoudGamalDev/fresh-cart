@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fresh-cart/static/css/main.fb846b09.css",
-    "main.js": "/fresh-cart/static/js/main.4af7120c.js",
+    "main.css": "/fresh-cart/static/css/main.45c3070a.css",
+    "main.js": "/fresh-cart/static/js/main.8b3e6890.js",
     "static/js/748.e390d6c3.chunk.js": "/fresh-cart/static/js/748.e390d6c3.chunk.js",
     "static/js/592.24489f8e.chunk.js": "/fresh-cart/static/js/592.24489f8e.chunk.js",
     "static/media/blog-img-2.jpeg": "/fresh-cart/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
@@ -13,24 +13,24 @@
     "static/media/slider-image-2.jpeg": "/fresh-cart/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
     "static/media/fa-solid-900.woff2": "/fresh-cart/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
     "static/media/fa-brands-400.woff2": "/fresh-cart/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
-    "static/media/error.svg": "/fresh-cart/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/error.svg": "/fresh-cart/static/media/error.d1c816124952392560da8de0e6c728b4.svg",
     "static/media/fa-regular-400.ttf": "/fresh-cart/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
     "static/media/fa-regular-400.woff2": "/fresh-cart/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
     "static/media/fa-v4compatibility.ttf": "/fresh-cart/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
-    "static/media/freshcart-logo.svg": "/fresh-cart/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/freshcart-logo.svg": "/fresh-cart/static/media/freshcart-logo.af33f2cb2a100f447f3b8c388932e12a.svg",
     "static/media/fa-v4compatibility.woff2": "/fresh-cart/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "static/media/slick.svg": "/fresh-cart/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/fresh-cart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/fresh-cart/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/fresh-cart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fresh-cart/index.html",
-    "main.fb846b09.css.map": "/fresh-cart/static/css/main.fb846b09.css.map",
-    "main.4af7120c.js.map": "/fresh-cart/static/js/main.4af7120c.js.map",
+    "main.45c3070a.css.map": "/fresh-cart/static/css/main.45c3070a.css.map",
+    "main.8b3e6890.js.map": "/fresh-cart/static/js/main.8b3e6890.js.map",
     "748.e390d6c3.chunk.js.map": "/fresh-cart/static/js/748.e390d6c3.chunk.js.map",
     "592.24489f8e.chunk.js.map": "/fresh-cart/static/js/592.24489f8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb846b09.css",
-    "static/js/main.4af7120c.js"
+    "static/css/main.45c3070a.css",
+    "static/js/main.8b3e6890.js"
   ]
 }
